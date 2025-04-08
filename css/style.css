@@ -18,10 +18,11 @@
 
 html {
   margin: 0px;
-	background: #161625;
+  background: #161625;
   color: #888;
   font-size: 1em;
   line-height: 1.4;
+  scroll-behavior: smooth;
 }
 
 main {
